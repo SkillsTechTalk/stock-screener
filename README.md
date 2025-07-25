@@ -106,8 +106,5 @@ This project is open-source and provided **as-is** for educational and research 
 ## Contact
 
 Website: [https://skillstechtalk.com](https://skillstechtalk.com)
-
-Email: [acodewell@skillstechtalk.com](mailto:acodewell@skillstechtalk.com)
-
 ```
 ```
